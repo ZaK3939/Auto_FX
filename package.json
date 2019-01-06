@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ccxt": "^1.18.94"
+    "ccxt": "^1.18.94",
+    "gauss": "^0.2.12"
   }
 }
